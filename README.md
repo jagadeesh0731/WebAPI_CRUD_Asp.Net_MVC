@@ -1,6 +1,5 @@
 # WebAPI_CRUD_Asp.Net_MVC
-### An Asp.Net MVC WebAPI appliacation used to manage all the employee details to post, get, put and delete operations.
-
+### An Asp.Net MVC WebAPI application used to manage all the employee details to post, get, put and delete operations.
 
 
 https://user-images.githubusercontent.com/52787121/179513246-20161896-354b-4365-9077-1a88dee59b58.mp4
