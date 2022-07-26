@@ -12,6 +12,6 @@ Through using the WebAPI user can manage all the employees details based on http
 
 * **Get:** The request allows user to get all the employee details in the database.
 
-* **Put:** The request allows user to edit the already added employee details in the database.
+* **Put:** The request allows user to edit the existed employee details in the database.
 
-* **Delete:** The request allows user to delete the already added employee details in the database.
+* **Delete:** The request allows user to delete the existed employee details in the database.
